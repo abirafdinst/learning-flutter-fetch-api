@@ -1,4 +1,7 @@
-# feed_app
+FLUTTER FETCH API
+Tampilan Web
+
+![image](https://github.com/abirafdinst/learning-flutter-fetch-api/assets/171578597/fd64e4b8-8539-4001-9724-7856700ea052)
 
 A new Flutter project.
 
